@@ -1,0 +1,9 @@
+projectName: sfdx-hardis
+devHubAlias: DevHub_sfdx-hardis
+developmentBranch: integration
+autoCleanTypes:
+  - destructivechanges
+devHubUsername: joeyred8@devhub.dev.com
+installedPackages: []
+deploymentPlan:
+  packages: []

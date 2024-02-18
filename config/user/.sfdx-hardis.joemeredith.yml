@@ -1,0 +1,7 @@
+installedApps:
+  - git
+  - openssl
+scratchOrgAlias: null
+scratchOrgUsername: null
+userEmail: joe.meredith8@gmail.com
+sfdxPluginsStdout: "sfdmu \e[2m4.32.2\e[22m\nsfdx-essentials \e[2m2.12.0\e[22m\nsfdx-git-delta \e[2m5.34.0\e[22m\nsfdx-hardis \e[2m4.27.1\e[22m\ntexei-sfdx-plugin \e[2m2.2.4\e[22m\n"
